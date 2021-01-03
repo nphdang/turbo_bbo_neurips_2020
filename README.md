@@ -1,8 +1,8 @@
 # An improved version of Turbo algorithm for the Black-box optimization (BBO) competition organized by NeurIPS 2020
-This code is our solution for the BBO competition: https://bbochallenge.com/
+This implemention is our solution for the BBO competition organized by NeurIPS 2020 conference: https://bbochallenge.com/
 
 # Final result
-This algorithm ranked the 4th place on the “warm start friendly” leaderboard of the BBO competition organized by NeurIPS 2020 conference: https://bbochallenge.com/altleaderboard. It also ranked 17th place on the final leaderboard: https://bbochallenge.com/leaderboard
+Our algorithm ranked the 4th place on the “warm start friendly” leaderboard: https://bbochallenge.com/altleaderboard, and ranked 17th place on the final leaderboard: https://bbochallenge.com/leaderboard
 
 ## Result on “warm start friendly” leaderboard
 ![leaderboard](https://github.com/nphdang/turbo_bbo_neurips_2020/blob/master/leaderboard.jpg)
@@ -13,10 +13,10 @@ This algorithm ranked the 4th place on the “warm start friendly” leaderboard
 3. Increase the number of explored trust regions by using a base-length decay
 
 # Installation
-This code is based on Turbo algorithm. Please find the required packages from Turbo's Github: https://github.com/uber-research/TuRBO
+This implemention is based on Turbo algorithm. Please find the required packages from Turbo's Github: https://github.com/uber-research/TuRBO
 
 # How to run
-This code is developed for optimizing machine learning models in the BBO competition. Please find the instruction from BBO competition Github: https://github.com/rdturnermtl/bbo_challenge_starter_kit/
+This implemention is developed for optimizing machine learning models in the BBO competition. Please find the instruction from BBO competition Github: https://github.com/rdturnermtl/bbo_challenge_starter_kit/
 
 # License
-This code is released under FREE license except for the code derived from Turbo.
+This implemention is released under FREE license except for the code derived from Turbo.
