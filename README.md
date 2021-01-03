@@ -2,7 +2,8 @@
 This implemention is our solution for the BBO competition organized by NeurIPS 2020 conference: https://bbochallenge.com/
 
 # Final results
-Our algorithm ranked the 4th place on the “warm start friendly” leaderboard: https://bbochallenge.com/altleaderboard, and ranked 17th place on the final leaderboard: https://bbochallenge.com/leaderboard
+Our algorithm ranked the 4th place on the “warm start friendly” leaderboard: https://bbochallenge.com/altleaderboard 
+It also ranked 17th place on the final leaderboard: https://bbochallenge.com/leaderboard
 
 ## Result on “warm start friendly” leaderboard
 ![leaderboard](https://github.com/nphdang/turbo_bbo_neurips_2020/blob/master/leaderboard.jpg)
