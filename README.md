@@ -1,5 +1,7 @@
 # An improved version of Turbo algorithm for the Black-box optimization (BBO) competition organized by NeurIPS 2020
-This algorithm ranked the 4th place on the “warm start friendly” leaderboard of the BBO competition organized by NeurIPS 2020 conference: https://bbochallenge.com/altleaderboard
+## This algorithm ranked the 4th place on the “warm start friendly” leaderboard of the BBO competition organized by NeurIPS 2020 conference: https://bbochallenge.com/altleaderboard
+
+# Result
 ![leaderboard](https://github.com/nphdang/turbo_bbo_neurips_2020/blob/master/leaderboard.jpg)
 
 # Main contributions
