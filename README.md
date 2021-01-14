@@ -20,4 +20,4 @@ This implemention is based on Turbo algorithm. Please find the required packages
 This implemention is developed for optimizing machine learning models in the BBO competition. Please find the instruction from the competition Github: https://github.com/rdturnermtl/bbo_challenge_starter_kit/
 
 # License
-This implemention is released under FREE license except for the code derived from Turbo.
+This implemention is released under Apache License 2.0 license except for the code derived from Turbo.
